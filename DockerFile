@@ -1,0 +1,42 @@
+FROM python:3.11
+
+WORKDIR /app
+
+# Copy and install requirements BEFORE spaces
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy application files
+COPY . .
+
+# Expose port
+EXPOSE 7860
+
+# Run the app
+CMD ["python", "app.py"]
+```
+
+And your `requirements.txt`:
+```
+mcp==1.21.2
+fastmcp==2.13.1
+gradio==5.50.0
+aiohttp
+google-generativeai
+huggingface-hub
+langchain-community
+langchain-core
+langchain-google-genai
+langchain-groq
+langgraph
+python-dotenv
+modal
+langchain-mcp-adapters
+nltk
+anyio
+transformers
+torch
+accelerate
+unsloth
+evaluate
+httpx
