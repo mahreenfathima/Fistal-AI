@@ -1,21 +1,3 @@
----
-title: Fistal AI
-emoji: 🚀
-colorFrom: indigo
-colorTo: pink
-sdk: gradio
-sdk_version: 6.0.1
-app_file: app.py
-pinned: false
-license: apache-2.0
-short_description: Finetuning Studio
-python_version: 3.11
-tags:
-- mcp-in-action-track-enterprise
-- mcp-in-action-track-consumer
----
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 <div align= "center">
 <h1>🚀 Fistal AI - Autonomous Fine-Tuning Platform </h1>
 </div>
@@ -322,6 +304,7 @@ This project is licensed under the APACHE License - see the [LICENSE](LICENSE) f
 ❤️ Like our space our HuggingFace • 🚀 Try the demo • 📱 Share on LinkedIn
 
 </div>
+
 
 
 
