@@ -262,20 +262,6 @@ agent validates: "Model trained, run evaluation"
 
 ---
 
-## 🎮 Try It Now
-
-<div align="center">
-
-### 🚀 **[Launch Fistal AI Demo](https://drive.google.com/file/d/1-Uf2-k-gJsIozg-YX0oo_qWjeS31sq98/view?usp=sharing)**
-
-### 📱 **[Read LinkedIn Post](https://www.linkedin.com/posts/mahreen-fathima-anis-5238ba36b_fistal-ai-a-hugging-face-space-by-mcp-1st-birthday-activity-7400939406448074752-SKAV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFvK0WsBW7LU9mIHS4nf2zGkEQ85Wi322Sg)**
-
-**Hosted on Hugging Face Spaces - No installation required!**
-
-</div>
-
----
-
 ## 📝 License
 
 This project is licensed under the APACHE License - see the [LICENSE](LICENSE) file for details.
@@ -301,9 +287,9 @@ This project is licensed under the APACHE License - see the [LICENSE](LICENSE) f
 
 **Powered by MCP • Unsloth • Modal • Hugging Face • Gemini API**
 
-❤️ Like our space our HuggingFace • 🚀 Try the demo • 📱 Share on LinkedIn
 
 </div>
+
 
 
 
